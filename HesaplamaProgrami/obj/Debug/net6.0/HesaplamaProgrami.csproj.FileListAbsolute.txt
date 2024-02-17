@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\bin\Debug\net6.0\HesaplamaProgrami.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\bin\Debug\net6.0\HesaplamaProgrami.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\bin\Debug\net6.0\HesaplamaProgrami.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\bin\Debug\net6.0\HesaplamaProgrami.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\bin\Debug\net6.0\HesaplamaProgrami.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\obj\Debug\net6.0\HesaplamaProgrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\obj\Debug\net6.0\HesaplamaProgrami.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\obj\Debug\net6.0\HesaplamaProgrami.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\obj\Debug\net6.0\HesaplamaProgrami.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\obj\Debug\net6.0\HesaplamaProgrami.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\obj\Debug\net6.0\refint\HesaplamaProgrami.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\obj\Debug\net6.0\HesaplamaProgrami.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\obj\Debug\net6.0\HesaplamaProgrami.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\HesaplamaProgrami\HesaplamaProgrami\obj\Debug\net6.0\ref\HesaplamaProgrami.dll
